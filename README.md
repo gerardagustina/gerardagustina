@@ -16,4 +16,4 @@ Background in signal processing; now focused on deep learning, clinical data and
 Python · PyTorch · MONAI · scikit-learn · pandas · Git · Google Colab · MATLAB · C++
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/TU-PERFIL) · gerard.agus@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gerard-agustina-engineer/) · gerard.agus@gmail.com
