@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gerard 👋
 
-<!--
-**gerardagustina/gerardagustina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telecommunications Engineer (UPC) building a portfolio in **AI/ML for pharma and healthcare**.
+Background in signal processing; now focused on deep learning, clinical data and responsible AI.
 
-Here are some ideas to get you started:
+## 🧬 ML for Healthcare portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Area | Highlights |
+|---|---|---|
+| [Breast Cancer Detection](https://github.com/gerardagustina/breast-cancer-detection) | Medical imaging | DenseNet121 + MONAI · AUC 0.937 · clinical threshold · Grad-CAM · model card |
+| Clinical Trial Survival Analysis | Clinical data | *In progress* · Kaplan-Meier, Cox regression, SHAP |
+| Molecular Property Prediction (ADMET) | Drug discovery | *Coming soon* · RDKit, graph neural networks |
+| Patient-Trial Matching | Clinical NLP / GenAI | *Coming soon* · embeddings, RAG, LLM evaluation |
+
+## 🛠️ Tech stack
+Python · PyTorch · MONAI · scikit-learn · pandas · Git · Google Colab · MATLAB · C++
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/TU-PERFIL) · gerard.agus@gmail.com
